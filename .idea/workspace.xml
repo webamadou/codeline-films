@@ -11,20 +11,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/unite_child/style.css">
+      <file leaf-file-name="content.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/unite_child/content.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="1043" column="1" selection-start-line="1043" selection-start-column="1" selection-end-line="1043" selection-end-column="1" />
+            <state relative-caret-position="330">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/unite_child/functions.php">
+      <file leaf-file-name="content-search.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/unite_child/content-search.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="180">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="n#article#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="taxonomy-genre.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/unite_child/taxonomy-genre.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+              <folding>
+                <element signature="n#article#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -32,8 +47,12 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/unite_child/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1170">
-              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="317">
+              <caret line="48" column="22" lean-forward="true" selection-start-line="46" selection-end-line="48" selection-end-column="22" />
+              <folding>
+                <element signature="e#560#703#0#PHP" />
+                <element signature="e#837#1446#0#PHP" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -41,8 +60,11 @@
       <file leaf-file-name="content-films.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/unite_child/content-films.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+            <state relative-caret-position="180">
+              <caret line="34" lean-forward="true" selection-start-line="7" selection-end-line="34" />
+              <folding>
+                <element signature="n#article#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -74,6 +96,8 @@
         <option value="$PROJECT_DIR$/wp-content/themes/unite_child/index.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/unite_child/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/unite_child/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/unite_child/content-search.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/unite_child/taxonomy-genre.php" />
       </list>
     </option>
   </component>
@@ -154,6 +178,14 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="content-single.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/codeline_wp/wp-content/themes/unite_child/content-single.php" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.content-single.php" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -164,12 +196,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537264648321</updated>
-      <workItem from="1537264650178" duration="19472000" />
+      <workItem from="1537264650178" duration="20817000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19472000" />
+    <option name="totallyTimeSpent" value="20817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="35" y="27" width="1331" height="741" extended-state="6" />
@@ -259,13 +291,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/unite_child/content.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/unite_child/sidebar.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
@@ -301,20 +326,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/unite_child/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/unite_child/content-films.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/unite_child/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="467">
@@ -326,6 +337,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="467">
           <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/unite_child/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/unite_child/content-films.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="34" lean-forward="true" selection-start-line="7" selection-end-line="34" />
+          <folding>
+            <element signature="n#article#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/unite_child/content-search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="n#article#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/unite_child/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="48" column="22" lean-forward="true" selection-start-line="46" selection-end-line="48" selection-end-column="22" />
+          <folding>
+            <element signature="e#560#703#0#PHP" />
+            <element signature="e#837#1446#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/unite_child/taxonomy-genre.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+          <folding>
+            <element signature="n#article#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
